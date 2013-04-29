@@ -1,4 +1,4 @@
-/***********************MOBILINK CUSTOMER DATABASE PROJECT*******************/
+/***********************Mobile Customer Database Project*******************/
 /***********************BY Rahul Gandhi******************************/
 
 
